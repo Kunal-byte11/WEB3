@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^4.0.99"
+  }
+}
